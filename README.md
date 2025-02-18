@@ -1,4 +1,4 @@
-## Hi there 👋
+> The ends do not justify the means. The means by which we achieve victory are as important as the victory itself.
 
 <!--
 **alpha-beta-soup/alpha-beta-soup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
